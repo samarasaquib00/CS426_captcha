@@ -1,4 +1,3 @@
-CS426_captcha
 Our version of an accessible CAPTCHA test for visually-impaired people that cannot be bypassed by speech-to-text programs
 
 Run this command to install pygame: pip install pygame
