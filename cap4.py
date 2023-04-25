@@ -24,10 +24,10 @@ pygame.display.flip()
 
 # Load the audio files
 pygame.mixer.init()
-audio_left = pygame.mixer.Sound('voicefiles/left.mp3')
-audio_right = pygame.mixer.Sound('voicefiles/right.mp3')
-audio_up = pygame.mixer.Sound('voicefiles/up.mp3')
-audio_down = pygame.mixer.Sound('voicefiles/down.mp3')
+audio_left = pygame.mixer.Sound('left.mp3')
+audio_right = pygame.mixer.Sound('right.mp3')
+audio_up = pygame.mixer.Sound('up.mp3')
+audio_down = pygame.mixer.Sound('down.mp3')
 
 audio_list = [audio_left, audio_right, audio_up]
 
